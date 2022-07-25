@@ -24,3 +24,8 @@ This project is still being tested
 ---------------------------------   
 
  ###  Developer :- Sanjuwa Ofc 
+
+
+  #### TOTAL REPO VIEWS
+![Visitor Count](https://profile-counter.glitch.me/Sanjuwa22/count.svg)
+</p>
