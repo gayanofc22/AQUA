@@ -5,6 +5,10 @@
 </p>
 <p align='center'>
     </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AQUA+BOT+MD+🇱🇰&font=Fira%20Code&center=true&width=380&height=50">
+
     
 ### ඔබට පහසුවෙන් QR කේතය Repl.it මඟින් ලබා ගත හැක.. පහල බටනය CLICK කරන්න
 
