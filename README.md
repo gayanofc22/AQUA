@@ -22,15 +22,15 @@
 
 ## QR කේතය ලබා ගත් පසු Bot deploy කිරීමට පහල බටනය CLICK කරන්න..
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sanjuwa22/AQUA)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gayanofc22/AQUA)
 
 ---------------------------------   
 
- ###  Developer :- Sanjuwa Ofc 
+ ###  Developer :- gayan Ofc 
 
 
   #### TOTAL REPO VIEWS
-![Visitor Count](https://profile-counter.glitch.me/Sanjuwa22/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/gayanofc22/count.svg)
 </p>
 
 <div align="center">		
